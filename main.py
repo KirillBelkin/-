@@ -8,4 +8,6 @@ while choose != 0:
         b = int(input("Введите b"))
         print("a + b = ", a + b)
     elif choose == 2:  # Вычитание
-        pass
+        a = int(input("Введите a"))
+        b = int(input("Введите b"))
+        print("a - b = ", a - b)
